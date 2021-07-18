@@ -5,5 +5,8 @@ Consists of Signup and Login page and a Chatbot application.
 
 ### Task:  Open Innovation to make anything using any Google Technologies.
 #### Google Technology Used: *Firebase*
+#### Language Used: 
+* HTML/CSS
+* JavaScript
 #### IDE Used: *VS Code*
 
